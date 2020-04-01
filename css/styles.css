@@ -16,7 +16,7 @@ a:hover {
 nav {
   padding-top: 10px;
   margin-top: -10px;
-  padding-bottom: 20px;
+  padding-bottom: 10px;
   background-color: #eceef1;
   height: auto;
   display: flex;
@@ -177,7 +177,8 @@ footer p {
   border: none;
 }
 
-.buttonBox div {
+.buttonBox span {
+  display: block;
   padding: 14px 0;
   margin: 4px;
   border: none;
