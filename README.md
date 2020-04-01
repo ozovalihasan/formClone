@@ -1,4 +1,4 @@
-# intuit Sign-up Clone
+﻿# intuit Sign-up Clone
 
 > intuit Sign-up page is cloned as a project of Microverse
 
@@ -14,7 +14,7 @@ This work is a second project of Microverse
 
 ## Live Demo
 
-[Live Demo Link](https://raw.githack.com/ozovalihasan/formClone/master/index.html)
+[Live Demo Link](https://raw.githack.com/ozovalihasan/formClone/mainParts/index.html)
 
 ## Authors
 
