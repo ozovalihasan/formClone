@@ -13,6 +13,10 @@ a:hover {
   text-decoration: underline;
 }
 
+button {
+  cursor: pointer;
+}
+
 nav {
   padding-top: 10px;
   margin-top: -10px;
