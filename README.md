@@ -14,7 +14,7 @@ This work is a second project of Microverse
 
 ## Live Demo
 
-[Live Demo Link](https://raw.githack.com/ozovalihasan/formClone/mainParts/index.html)
+[Live Demo Link](https://raw.githack.com/ozovalihasan/formClone/master/index.html)
 
 ## Authors
 
